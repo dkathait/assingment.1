@@ -1,0 +1,6 @@
+
+# Task 2: Create a Personalized Greeting
+a=input("Enter your first name: ")
+b=input("Enter your second name: ")
+print()
+print("Hellow,",a+" "+b+"! welcome to the Python program.")
